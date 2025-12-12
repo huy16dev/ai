@@ -1,0 +1,18 @@
+Prompt “Hãy giải thích cái này giúp mình” không ổn vì:
+
+Không nói rõ “cái này” là cái gì
+
+Không nói muốn giải thích kiểu gì
+
+Viết lại cho đỡ mơ hồ:
+
+“Giải thích điện toán đám mây bằng ví dụ đời sống”
+
+“Tóm tắt điện toán đám mây trong 5 ý”
+
+Ví dụ học tập:
+
+“Giải thích AI là gì bằng ví dụ trong học tập”
+
+Kết luận:
+Hỏi càng rõ thì AI trả lời càng đúng.
